@@ -36,8 +36,8 @@ body {
 #restart-btn {
     padding: 12px 24px;
     font-size: 16px;
-    background-color: #F7D33F;
-    color: rgb(0, 0, 0);
+    background-color: #B0B440;
+    color: #FFFFFF;
     border: none;
     border-radius: 12px;
     cursor: pointer;
@@ -86,13 +86,13 @@ body {
 }
 .card.matched {
     background-color: #000000;
-    box-shadow: 0 0 0 2px #F7D33F;
+    box-shadow: 0 0 0 2px #B0B440;
 }
 #win-message {
     margin-top: 30px;
     padding: 20px;
-    background-color: rgb(247, 211, 63);
-    color: rgb(0, 0, 0);
+    background-color: #B0B440;
+    color: #FFFFFF;
     border-radius: 12px;
     font-size: 18px;
     font-weight: 500;
@@ -175,8 +175,8 @@ body {
 #win-message {
     margin-bottom: 25px;
     padding: 20px;
-    background-color: #F7D33F;
-    color: rgb(0, 0, 0);
+    background-color: #B0B440;
+    color: #FFFFFF;
     border-radius: 12px;
     font-size: 18px;
     font-weight: 500;
